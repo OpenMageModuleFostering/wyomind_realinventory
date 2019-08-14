@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Wyomind_RealInventory",
+    "type": "magento-module",
+    "license": "free",
+    "homepage": "",
+    "description": "Keep your inventory updated until the orders are shipped. Display your stock level in two distinct columns : one for the saleable remaining products  and one other for the already paid but not shipped products.",
+    "authors": [
+    {
+        "name": "Wyomind",
+        "email": "contact@wyomind.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
